@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Rasyad from Indonesia<br> 🌱 I'm currently learning for Fullstack Developer Tech</p>
+<p align="left"> 😄 I'm Rasyad from Indonesia<br> 🌱 I'm currently learning for Fullstack Developer Tech</p>
 
 ###
 
