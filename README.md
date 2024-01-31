@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"> 😄 I'm Rasyad from Indonesia<br> 🌱 I'm currently learning for Fullstack Developer Tech<br> 📫 How to reach me: [razarpras@gmail.com] (mailto:razarpras@gmail.com)</p>
+<p align="left"> 😄 I'm Rasyad from Indonesia<br> 🌱 I'm currently learning for Fullstack Developer Tech<br> 📫 How to reach me: <a href="mailto:razarpras@gmail.com">razarpras@gmail.com</a></p>
 
 ###
 
