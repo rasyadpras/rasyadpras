@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi there! 👋 @rasyadpras here! <img src="https://emojis.slackmojis.com/emojis/images/1626472336/47591/cat-wave.gif?1626472336"/></h2>
+<h1 align="center">Hi there! 👋 @rasyadpras here! <img src="https://emojis.slackmojis.com/emojis/images/1626472336/47591/cat-wave.gif?1626472336" width="30"/></h1>
 
 ###
 
