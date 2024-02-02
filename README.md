@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="center">🔥   My Stats   🔥</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasyadpras&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyadpras&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  /><br>
-  <img src="https://streak-stats.demolab.com?user=rasyadpras&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="170" alt="streak graph"  />
+  <a href="mailto:razarpras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"/></a>
+  <img width="20" />
+  <a href="https://github.com/rasyadpras"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"/></a>
+  <img width="20" />
+  <a href="https://www.linkedin.com/in/rasyad0212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/></a>
+  <img width="20" />
+  <a href="https://vercel.com/rasyadpras"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="vercel logo"/></a>
 </div>
 
 ###
@@ -80,18 +80,14 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="center">📫   How to Reach Me   📫</h3>
+<h3 align="center">🔥   My Stats   🔥</h3>
 
 ###
 
 <div align="center">
-  <a href="mailto:razarpras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"/></a>
-  <img width="20" />
-  <a href="https://github.com/rasyadpras"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"/></a>
-  <img width="20" />
-  <a href="https://www.linkedin.com/in/rasyad0212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/></a>
-  <img width="20" />
-  <a href="https://vercel.com/rasyadpras"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="vercel logo"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rasyadpras&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyadpras&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  /><br>
+  <img src="https://streak-stats.demolab.com?user=rasyadpras&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
