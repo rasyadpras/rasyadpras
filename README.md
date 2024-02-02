@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"> 😄 I'm Rasyad from Indonesia<br> 🌱 I'm currently learning for Fullstack Developer Tech<br> 📫 How to reach me: <a href="mailto:razarpras@gmail.com">razarpras@gmail.com</a></p>
+<p align="left"> 😄 I'm Rasyad from Indonesia<br> 🌱 I'm currently learning for Fullstack Developer Tech</p>
 
 ###
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠   Tech Stack   🛠</h3>
 
 ###
 
@@ -53,25 +53,45 @@ Here are some ideas to get you started:
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <br>
-  <br>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <br>
+  <br>
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40" alt="socketio logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sentry/362D59" height="40" alt="sentry logo"  />
+  <img src="https://skillicons.dev/icons?i=sentry" height="40" alt="sentry logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://railway.app/brand/logo-light.svg" height="40" alt="railway logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="center">📫   How to Reach Me   📫</h3>
+
+###
+
+<div align="center">
+  <a href="mailto:razarpras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"/></a>
+  <img width="20" />
+  <a href="https://github.com/rasyadpras"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"/></a>
+  <img width="20" />
+  <a href="https://www.linkedin.com/in/rasyad0212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/></a>
+  <img width="20" />
+  <a href="https://vercel.com/rasyadpras"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="vercel logo"/></a>
 </div>
 
 ###
