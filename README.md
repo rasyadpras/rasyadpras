@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there! @rasyadpras here! <img src="https://emojis.slackmojis.com/emojis/images/1626472336/47591/cat-wave.gif?1626472336" width="40"/></h1>
+<h1 align="center">Hi there! @rasyadpras here! <img src="https://emojis.slackmojis.com/emojis/images/1626472336/47591/cat-wave.gif?1626472336" width="32"/></h1>
 
 ###
 
@@ -62,7 +62,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
 ###
