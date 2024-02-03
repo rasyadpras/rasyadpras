@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://railway.app/brand/logo-light.svg" height="40" alt="railway logo"  />
+  <img src="https://devicons.railway.app/i/railway-dark.svg" height="40" alt="railway logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="12" />
