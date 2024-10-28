@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=rasyadpras&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=rasyadpras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyadpras&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  /></a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyadpras&theme=github&radius=8" alt="activity graph" height="250"  /></a>
